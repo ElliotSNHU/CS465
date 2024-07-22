@@ -8,8 +8,9 @@
     "\\app_server\\views",
     "\\app_server\\views\\layouts",
     "\\app_server\\views\\partials",
-    "\\public"
+    "\\bin",
+    "\\css"
   ],
-  "SelectedNode": "\\app_server\\routes\\travel.js",
+  "SelectedNode": "\\app_server\\views\\travel.hbs",
   "PreviewInSolutionExplorer": false
 }
